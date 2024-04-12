@@ -1,0 +1,17 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Nederlandse Digitaliseringsstrategie"
+    id="id-485d1c6ccd5a4babaa9a2280d0b52d50">
+  <properties
+      key="ID"
+      value="BK15"/>
+  <properties
+      key="Referentiearchitectuur"
+      value="NORA"/>
+  <properties
+      key="GEMMA type"
+      value="Beleidskader"/>
+  <properties
+      key="Object ID"
+      value="b9dc64d1-2d53-46c9-ae54-7485fd55bbd9"/>
+</archimate:Driver>

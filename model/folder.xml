@@ -1,5 +1,28 @@
 <archimate:ArchimateModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
-    name="(new model)"
+    name="Projectmodel Motivatiemodellen"
     id="id-7dcde702a6c0410788317055a4cdde73"
-    version="5.0.0"/>
+    purpose="De GEMeentelijk Model Architectuur (GEMMA) bevat een blauwdruk van de gemeente en haar informatievoorziening. De GEMMA kan worden gebruikt als basis voor de projectmodellen"
+    version="5.0.0">
+  <properties
+      key="Publiceren"
+      value="Softwarecatalogus en GEMMA Online en redactie"/>
+  <properties
+      key="GEMMA status"
+      value="In gebruik"/>
+  <properties
+      key="Architectuurtool"
+      value="Archi"/>
+  <properties
+      key="Type model"
+      value="Projectmodel"/>
+  <properties
+      key="Object ID"
+      value="81adea5e-3933-462a-af67-1415a1923e4b"/>
+  <properties
+      key="Versie"
+      value="0.9"/>
+  <properties
+      key="Roundtrip"
+      value="Ja"/>
+</archimate:ArchimateModel>

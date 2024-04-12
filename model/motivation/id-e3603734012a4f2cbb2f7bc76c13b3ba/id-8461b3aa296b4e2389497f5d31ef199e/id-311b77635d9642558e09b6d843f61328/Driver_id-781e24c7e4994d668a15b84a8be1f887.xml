@@ -1,0 +1,17 @@
+<archimate:Driver
+    xmlns:archimate="http://www.archimatetool.com/archimate"
+    name="Big Data in een vrije en veilige samenleving"
+    id="id-781e24c7e4994d668a15b84a8be1f887">
+  <properties
+      key="ID"
+      value="BK13"/>
+  <properties
+      key="Referentiearchitectuur"
+      value="NORA"/>
+  <properties
+      key="GEMMA type"
+      value="Beleidskader"/>
+  <properties
+      key="Object ID"
+      value="02455e99-c1fc-4004-805d-0a2afce686e5"/>
+</archimate:Driver>
