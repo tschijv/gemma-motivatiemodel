@@ -7,14 +7,13 @@
       key="Latest Sync Date"
       value="11/04/2024 14:48:11"/>
   <properties
-      key="ID"
-      value="GIMP110"/>
+      key="GEMMA ID"/>
   <properties
       key="Hoort bij"
       value="GAP06"/>
   <properties
       key="NORA ID"
-      value="NAP07.01"/>
+      value="NAP06.01"/>
   <properties
       key="NORA URL"
       value="https://www.noraonline.nl/wiki/Diensten_vullen_elkaar_aan_(implicatie)"/>
@@ -24,4 +23,7 @@
   <properties
       key="Object ID"
       value="30ba5e17-ea6c-41f7-9a34-e57ef17f282f"/>
+  <properties
+      key="GEMMA type"
+      value="Implicatie"/>
 </archimate:Requirement>

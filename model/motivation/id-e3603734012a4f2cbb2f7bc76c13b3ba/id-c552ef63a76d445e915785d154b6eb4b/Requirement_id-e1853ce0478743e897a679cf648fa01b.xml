@@ -7,8 +7,7 @@
       key="Latest Sync Date"
       value="11/04/2024 14:48:11"/>
   <properties
-      key="ID"
-      value="GIMP033"/>
+      key="GEMMA ID"/>
   <properties
       key="Hoort bij"
       value="GAP12, GAP07"/>
@@ -24,4 +23,7 @@
   <properties
       key="Object ID"
       value="cecba2fa-0708-4190-afeb-5928e1d40081"/>
+  <properties
+      key="GEMMA type"
+      value="Implicatie"/>
 </archimate:Requirement>

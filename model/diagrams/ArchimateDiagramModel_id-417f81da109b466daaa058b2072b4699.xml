@@ -1,4 +1,8 @@
 <archimate:ArchimateDiagramModel
     xmlns:archimate="http://www.archimatetool.com/archimate"
     name="Default View"
-    id="id-417f81da109b466daaa058b2072b4699"/>
+    id="id-417f81da109b466daaa058b2072b4699">
+  <properties
+      key="Object ID"
+      value="d9d86f6e-a522-4dd7-a1d2-84c70af5d3a6"/>
+</archimate:ArchimateDiagramModel>
