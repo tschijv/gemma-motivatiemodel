@@ -4,10 +4,8 @@
     id="id-2a0e8b00688d4e64aad064bbf0ce1226"
     documentation="De dienst heeft een duidelijk beschreven 'Quality of Service'. Niet alleen op het technisch koppelvlak, maar juist ook op die aspecten die door de afnemers begrepen worden. Bijvoorbeeld in termen van beschikbaarheid, performance, supportniveau, etc.">
   <properties
-      key="Latest Sync Date"
-      value="11/04/2024 14:48:11"/>
-  <properties
-      key="GEMMA ID"/>
+      key="ID"
+      value="GIMP040"/>
   <properties
       key="Hoort bij"
       value="GAP09"/>
@@ -19,11 +17,11 @@
       value="https://www.noraonline.nl/wiki/Stel_een_duidelijke_Quality_of_Service_(QoS)_vast_voor_de_dienst"/>
   <properties
       key="Laag binnen NORA vijflaagsmodel"
-      value="Organisatie"/>
+      value="Organisatielaag"/>
   <properties
       key="Object ID"
       value="16b99053-00a9-4190-bb78-0be6f3b24311"/>
   <properties
       key="GEMMA type"
-      value="Implicatie"/>
+      value="GEMMA implicatie"/>
 </archimate:Requirement>

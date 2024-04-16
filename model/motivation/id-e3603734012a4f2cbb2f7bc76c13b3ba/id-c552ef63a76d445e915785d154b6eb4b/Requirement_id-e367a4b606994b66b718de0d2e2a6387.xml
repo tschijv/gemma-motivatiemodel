@@ -4,10 +4,8 @@
     id="id-e367a4b606994b66b718de0d2e2a6387"
     documentation="Het segmenteren van het netwerk beperkt de gevolgen van een aanval. Segmenteren betekent dat een netwerk in meerdere zones wordt verdeeld, waartussen een inspectiepunt ontstaat. Netwerksegmentatie voorkomt dat een virus of aanvaller zich kan verspreiden in het gehele netwerk. Afhankelijk van de wijze van implementatie is netwerksegmentatie een maatregel die de gevolgen van ransomware-aanvallen of DDoS-aanvallen beperkt.">
   <properties
-      key="Latest Sync Date"
-      value="11/04/2024 14:48:11"/>
-  <properties
-      key="GEMMA ID"/>
+      key="ID"
+      value="GIMP070"/>
   <properties
       key="Hoort bij"
       value="GAP14, GAP13"/>
@@ -19,11 +17,11 @@
       value="https://www.noraonline.nl/wiki/Segmenteer_het_netwerk"/>
   <properties
       key="Laag binnen NORA vijflaagsmodel"
-      value="Netwerk"/>
+      value="Netwerklaag"/>
   <properties
       key="Object ID"
       value="323288bd-b9cc-442a-9e18-87fdcd3a08f2"/>
   <properties
       key="GEMMA type"
-      value="Implicatie"/>
+      value="GEMMA implicatie"/>
 </archimate:Requirement>

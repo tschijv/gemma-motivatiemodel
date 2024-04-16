@@ -4,10 +4,8 @@
     id="id-6de702c9d1064308bbfa8efc91a6ab46"
     documentation="De verwerkingshistorie inclusief doel van verwerking wordt vastgelegd in een aparte (kern)registratie op basis van een verwerkingsactiviteit. Dit betekent dat de historie van acties waarin een gegevensobject wordt verwerkt (opvragen / vastleggen / wijzigen / verwijderen) inclusief het doel van de actie vastgelegd wordt in een aparte (kern)registratie.">
   <properties
-      key="Latest Sync Date"
-      value="11/04/2024 14:48:11"/>
-  <properties
-      key="GEMMA ID"/>
+      key="ID"
+      value="GIMP045"/>
   <properties
       key="Hoort bij"
       value="GAP11"/>
@@ -19,11 +17,11 @@
       value="https://www.noraonline.nl/wiki/Leg_de_doelbinding_vast_in_de_metadata_van_het_gegevensobject"/>
   <properties
       key="Laag binnen NORA vijflaagsmodel"
-      value="Grondslagen"/>
+      value="Grondslagenlaag"/>
   <properties
       key="Object ID"
       value="6a5389b4-2678-4a43-ba53-1dba7cdd538d"/>
   <properties
       key="GEMMA type"
-      value="Implicatie"/>
+      value="GEMMA implicatie"/>
 </archimate:Requirement>

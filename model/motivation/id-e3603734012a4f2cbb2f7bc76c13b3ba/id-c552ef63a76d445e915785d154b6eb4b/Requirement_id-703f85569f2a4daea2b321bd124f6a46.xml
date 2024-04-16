@@ -4,10 +4,8 @@
     id="id-703f85569f2a4daea2b321bd124f6a46"
     documentation="Stel bij iedere processtap de vraag of deze stap waarde toevoegt voor de afnemer of dat de processtap evengoed weggelaten kan worden.">
   <properties
-      key="Latest Sync Date"
-      value="11/04/2024 14:48:11"/>
-  <properties
-      key="GEMMA ID"/>
+      key="ID"
+      value="GIMP014"/>
   <properties
       key="Hoort bij"
       value="GAP16"/>
@@ -19,11 +17,11 @@
       value="https://www.noraonline.nl/wiki/Elimineer_overbodige_processtappen_(voor_de_afnemer)"/>
   <properties
       key="Laag binnen NORA vijflaagsmodel"
-      value="Organisatie"/>
+      value="Organisatielaag"/>
   <properties
       key="Object ID"
       value="5338ff30-5504-4fc6-8dd6-372babe87c89"/>
   <properties
       key="GEMMA type"
-      value="Implicatie"/>
+      value="GEMMA implicatie"/>
 </archimate:Requirement>

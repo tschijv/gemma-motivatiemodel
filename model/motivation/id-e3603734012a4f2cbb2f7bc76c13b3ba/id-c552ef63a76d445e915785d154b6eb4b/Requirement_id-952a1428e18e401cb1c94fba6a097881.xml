@@ -4,10 +4,8 @@
     id="id-952a1428e18e401cb1c94fba6a097881"
     documentation="Gebruiken van of verwijzen naar de bron heeft de voorkeur boven een kopie uit die bron. Inzage in de bron heeft de voorkeur boven zelf opslaan. Afspraken daarover worden vastgelegd en bekend gemaakt. Vanuit legitimiteitsperspectief kan het nodig zijn een kopie vast te leggen.">
   <properties
-      key="Latest Sync Date"
-      value="11/04/2024 14:48:11"/>
-  <properties
-      key="GEMMA ID"/>
+      key="ID"
+      value="GIMP007"/>
   <properties
       key="Hoort bij"
       value="GAP12, GAP18"/>
@@ -19,11 +17,11 @@
       value="https://www.noraonline.nl/wiki/Verwijs_naar_de_bron"/>
   <properties
       key="Laag binnen NORA vijflaagsmodel"
-      value="Informatie"/>
+      value="Informatielaag"/>
   <properties
       key="Object ID"
       value="9b580070-6e83-4f12-b07f-d27835e0d93c"/>
   <properties
       key="GEMMA type"
-      value="Implicatie"/>
+      value="GEMMA implicatie"/>
 </archimate:Requirement>

@@ -4,10 +4,8 @@
     id="id-359339c67fd249cea7a481749bc1f76b"
     documentation="Door spreiding van levering van functionaliteit zodat er indien nodig overgeschakeld kan worden van de ene locatie/platform / leverancier naar een andere leverancier/locatie/platform worden de risico's voor uitval geminimaliseerd.&#xA;(Platform agnostisch)">
   <properties
-      key="Latest Sync Date"
-      value="11/04/2024 14:48:11"/>
-  <properties
-      key="GEMMA ID"/>
+      key="ID"
+      value="GIMP030"/>
   <properties
       key="Hoort bij"
       value="GAP08, GAP15, GAP07"/>
@@ -17,11 +15,11 @@
       key="NORA URL"/>
   <properties
       key="Laag binnen NORA vijflaagsmodel"
-      value="Netwerk|"/>
+      value="Netwerklaag|"/>
   <properties
       key="Object ID"
       value="1da91272-4220-46c8-9f3e-79c5dd052c1d"/>
   <properties
       key="GEMMA type"
-      value="Implicatie"/>
+      value="GEMMA implicatie"/>
 </archimate:Requirement>

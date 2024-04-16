@@ -4,10 +4,8 @@
     id="id-c710320ffd6c447281cf5ad5081ecf3e"
     documentation="Beschrijf diensten in een producten- en dienstencatalogus (PDC) inclusief de daarbij behorende spelregels. Datasets worden beschreven in een datacatalogus (interne afnemers). Open data van de overheid biedt dit inzicht aan externe afnemers. Zie data.overheid.nl">
   <properties
-      key="Latest Sync Date"
-      value="11/04/2024 14:48:11"/>
-  <properties
-      key="GEMMA ID"/>
+      key="ID"
+      value="GIMP043"/>
   <properties
       key="Hoort bij"
       value="GAP09"/>
@@ -19,11 +17,11 @@
       value="https://www.noraonline.nl/wiki/Neem_diensten_op_in_een_producten-_en_dienstencatalogus_(PDC)"/>
   <properties
       key="Laag binnen NORA vijflaagsmodel"
-      value="Organisatie, | Informatie"/>
+      value="Organisatielaag, informatielaag"/>
   <properties
       key="Object ID"
       value="1b409055-fddc-4ab8-98bf-c8907763e9f7"/>
   <properties
       key="GEMMA type"
-      value="Implicatie"/>
+      value="GEMMA implicatie"/>
 </archimate:Requirement>

@@ -4,10 +4,8 @@
     id="id-be25a1179df14f89b41abb6df7497c66"
     documentation="Door standaardisering, vereenvoudiging en hergebruik van basisprocessen wordt de bedrijfsvoering en dienstverlening efficiënter, effectiever en minder complex. Basisprocessen en hun onderdelen worden hiervoor gezamenlijk beheerd en ontsloten via registers.">
   <properties
-      key="Latest Sync Date"
-      value="11/04/2024 14:48:11"/>
-  <properties
-      key="GEMMA ID"/>
+      key="ID"
+      value="GIMP105"/>
   <properties
       key="Hoort bij"
       value="GAP08 GAP16"/>
@@ -17,11 +15,11 @@
       key="NORA URL"/>
   <properties
       key="Laag binnen NORA vijflaagsmodel"
-      value="Organisatie"/>
+      value="Organisatielaag"/>
   <properties
       key="Object ID"
       value="d00fde8d-5b58-4683-90f0-7caba99c8892"/>
   <properties
       key="GEMMA type"
-      value="Implicatie"/>
+      value="GEMMA implicatie"/>
 </archimate:Requirement>

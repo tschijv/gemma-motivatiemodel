@@ -4,10 +4,8 @@
     id="id-c295634a2fa2408ca1a7d7ba6b52280f"
     documentation="Stel vast voor welke berichtenstromen of transacties onweerlegbaarheid van gegevens vereist is, zodat daarvoor aanvullende maatregelen genomen kunnen worden.">
   <properties
-      key="Latest Sync Date"
-      value="11/04/2024 14:48:11"/>
-  <properties
-      key="GEMMA ID"/>
+      key="ID"
+      value="GIMP064"/>
   <properties
       key="Hoort bij"
       value="GAP14, GAP13"/>
@@ -19,11 +17,11 @@
       value="https://www.noraonline.nl/wiki/Stel_onweerlegbaarheid_vast"/>
   <properties
       key="Laag binnen NORA vijflaagsmodel"
-      value="Applicatie"/>
+      value="Applicatielaag"/>
   <properties
       key="Object ID"
       value="5205da83-fb1c-4de2-9f9a-488d72772bbf"/>
   <properties
       key="GEMMA type"
-      value="Implicatie"/>
+      value="GEMMA implicatie"/>
 </archimate:Requirement>

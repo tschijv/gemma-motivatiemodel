@@ -4,10 +4,8 @@
     id="id-c52ac02849a84b50a692801b3b9cb768"
     documentation="Stel bij het verzamelen en opvragen van persoonsgegevens de betrokkenen op de hoogte van het doel waarvoor de gegevens worden verzameld en van de rechten die zij mogen uitoefenen.">
   <properties
-      key="Latest Sync Date"
-      value="11/04/2024 14:48:11"/>
-  <properties
-      key="GEMMA ID"/>
+      key="ID"
+      value="GIMP053"/>
   <properties
       key="Hoort bij"
       value="GAP11"/>
@@ -19,11 +17,11 @@
       value="https://www.noraonline.nl/wiki/Stel_betrokkenen_op_de_hoogte_van_het_doel_waarvoor_gegevens_verzameld_worden"/>
   <properties
       key="Laag binnen NORA vijflaagsmodel"
-      value="Organisatie"/>
+      value="Organisatielaag"/>
   <properties
       key="Object ID"
       value="10efedff-d957-4ada-a777-f9c455cc0399"/>
   <properties
       key="GEMMA type"
-      value="Implicatie"/>
+      value="GEMMA implicatie"/>
 </archimate:Requirement>

@@ -4,10 +4,8 @@
     id="id-8cc92a656da3490880d3134e19807c6a"
     documentation="Gebruik als overheid de basisregistraties ter voorkoming van dubbele opslag en daarmee kwaliteitsverlies van je gegevens en uiteindelijk fouten in de participatie,  procesuitvoering en dienstverlening">
   <properties
-      key="Latest Sync Date"
-      value="11/04/2024 14:48:11"/>
-  <properties
-      key="GEMMA ID"/>
+      key="ID"
+      value="GIMP096"/>
   <properties
       key="Hoort bij"
       value="GAP12, GAP10, GAP08, GAP18"/>
@@ -17,11 +15,11 @@
       key="NORA URL"/>
   <properties
       key="Laag binnen NORA vijflaagsmodel"
-      value="Grondslagen, Informatie"/>
+      value="Grondslagenlaag, Informatielaag"/>
   <properties
       key="Object ID"
       value="0a451c51-0fd4-4fa3-8025-3f418d39a71c"/>
   <properties
       key="GEMMA type"
-      value="Implicatie"/>
+      value="GEMMA implicatie"/>
 </archimate:Requirement>

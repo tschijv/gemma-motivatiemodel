@@ -4,10 +4,8 @@
     id="id-41f7049b00094df78bc1137041d2425c"
     documentation="Voor de duurzaamheid en onafhankelijk hergebruik van informatieobjecten moet er een weergave en/of export beschikbaar zijn zonder afhankelijkheid van speciale software en hardware.">
   <properties
-      key="Latest Sync Date"
-      value="11/04/2024 14:48:11"/>
-  <properties
-      key="GEMMA ID"/>
+      key="ID"
+      value="GIMP098"/>
   <properties
       key="Hoort bij"
       value="GAP08"/>
@@ -17,11 +15,11 @@
       key="NORA URL"/>
   <properties
       key="Laag binnen NORA vijflaagsmodel"
-      value="Informatie"/>
+      value="Informatielaag"/>
   <properties
       key="Object ID"
       value="997b4ba5-f7b4-4525-b9e6-23eb7e6c79a2"/>
   <properties
       key="GEMMA type"
-      value="Implicatie"/>
+      value="GEMMA implicatie"/>
 </archimate:Requirement>

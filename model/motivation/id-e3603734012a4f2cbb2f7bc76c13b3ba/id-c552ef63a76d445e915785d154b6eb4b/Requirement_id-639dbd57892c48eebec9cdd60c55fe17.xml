@@ -4,10 +4,8 @@
     id="id-639dbd57892c48eebec9cdd60c55fe17"
     documentation="Door gebeurtenis gericht werken wordt meer vanuit de leefwereld van de afnemer dienstverlening geboden door gemeenten.">
   <properties
-      key="Latest Sync Date"
-      value="11/04/2024 14:48:11"/>
-  <properties
-      key="GEMMA ID"/>
+      key="ID"
+      value="GIMP108"/>
   <properties
       key="Hoort bij"
       value="GAP15, GAP07"/>
@@ -17,11 +15,11 @@
       key="NORA URL"/>
   <properties
       key="Laag binnen NORA vijflaagsmodel"
-      value="Organisatie, Applicatie, Netwerk"/>
+      value="Informatielaag, Applicatielaag, Netwerklaag"/>
   <properties
       key="Object ID"
       value="782f3a8a-3fb9-4fee-aeeb-14ac3e1b2f54"/>
   <properties
       key="GEMMA type"
-      value="Implicatie"/>
+      value="GEMMA implicatie"/>
 </archimate:Requirement>

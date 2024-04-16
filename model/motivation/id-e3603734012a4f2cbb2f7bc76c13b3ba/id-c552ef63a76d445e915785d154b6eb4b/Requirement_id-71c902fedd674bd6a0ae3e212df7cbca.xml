@@ -4,10 +4,8 @@
     id="id-71c902fedd674bd6a0ae3e212df7cbca"
     documentation="Gebruik gestandaardiseerde referentiedata. Zie ook CBS referentiedata, of domeinspecifieke bronnen voor referentiedata.">
   <properties
-      key="Latest Sync Date"
-      value="11/04/2024 14:48:11"/>
-  <properties
-      key="GEMMA ID"/>
+      key="ID"
+      value="GIMP038"/>
   <properties
       key="Hoort bij"
       value="GAP08"/>
@@ -19,11 +17,11 @@
       value="https://www.noraonline.nl/wiki/Gebruik_gestandaardiseerde_referentiedata"/>
   <properties
       key="Laag binnen NORA vijflaagsmodel"
-      value="Informatie"/>
+      value="Informatielaag"/>
   <properties
       key="Object ID"
       value="6a47a29a-9cbe-4c72-a9b2-20706897cb54"/>
   <properties
       key="GEMMA type"
-      value="Implicatie"/>
+      value="GEMMA implicatie"/>
 </archimate:Requirement>

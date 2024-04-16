@@ -4,10 +4,8 @@
     id="id-8c55b2d970cc4361b183c324ca2cf3ed"
     documentation="Houd alle gebruikte software en software-componenten, van applicatief tot infrastructureel, actueel. Volg de update-cyclus van leveranciers strikt: voer updates, patches en beveiligingsupdates zo snel mogelijk door op alle relevante systemen.">
   <properties
-      key="Latest Sync Date"
-      value="11/04/2024 14:48:11"/>
-  <properties
-      key="GEMMA ID"/>
+      key="ID"
+      value="GIMP086"/>
   <properties
       key="Hoort bij"
       value="GAP17, GAP13"/>
@@ -19,11 +17,11 @@
       value="https://www.noraonline.nl/wiki/Zorg_dat_software_up-to-date_is"/>
   <properties
       key="Laag binnen NORA vijflaagsmodel"
-      value="Applicatie, Netwerk"/>
+      value="Applicatielaag, Netwerklaag"/>
   <properties
       key="Object ID"
       value="470fcad9-ef8d-4d5b-8283-0a93b3472ea7"/>
   <properties
       key="GEMMA type"
-      value="Implicatie"/>
+      value="GEMMA implicatie"/>
 </archimate:Requirement>
