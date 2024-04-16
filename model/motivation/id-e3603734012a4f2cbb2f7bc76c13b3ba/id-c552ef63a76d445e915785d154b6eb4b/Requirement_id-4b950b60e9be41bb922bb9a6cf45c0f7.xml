@@ -5,7 +5,7 @@
     documentation="Versleutel alle gegevensdragers waarop niet-publieke informatie staat, inclusief smartphones en laptops, conform de laatst bekende en geldende richtlijnen. Dit reduceert het risico op een gegevenslek bij verlies van een dergelijk apparaat. Neem voor niet-publieke gegevens ook adequate beveiligingsmaatregelen om ze te beschermen in ransit. Dit kan door de verbinding te beveiligen, danwel door encryptie van de informatie zelf. Dit laatste heeft de voorkeur.">
   <properties
       key="ID"
-      value="GOMP084"/>
+      value="GIMP084"/>
   <properties
       key="Hoort bij"
       value="GAP13"/>
